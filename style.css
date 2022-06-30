@@ -204,8 +204,8 @@ div > p > small{
 @media screen and (max-width: 600px){
   .container2{
     color: white;
-    width: 287px;
-    height: 330px;
+    width: 150px;
+    height: 230px;
     background-color:black;
     margin-left:20px;
     margin-right:20px;
